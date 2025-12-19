@@ -1,7 +1,6 @@
 # System Engineering DevOps Project
 
-This repository contains my solutions for the ALX System Engineering & DevOps projects.
-It includes Bash scripts for process management, signals, and other exercises.
+Solutions for ALX System Engineering & DevOps exercises.
 
 ## Directory structure
 
