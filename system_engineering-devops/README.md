@@ -1,9 +1,5 @@
 # System Engineering DevOps Project
 
-Solutions for ALX System Engineering & DevOps exercises.
+This repository contains all exercises for ALX System Engineering & DevOps Pathway.
 
-## Directory structure
-
-- 0x05-processes_and_signals/
-  - 0-what-is-my-pid
-  - 1-list_your_processes
+Each task is stored in its respective directory with proper Bash scripts.
