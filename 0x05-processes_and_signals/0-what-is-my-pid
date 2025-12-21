@@ -1,0 +1,4 @@
+# Create the file
+cat << 'EOF' > 0-what-is-my-pid
+#!/bin/bash
+echo $$
